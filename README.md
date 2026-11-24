@@ -6,7 +6,7 @@ React + FastAPI + SQLite, with LiteLLM for the model calls, the response cache, 
 
 - Frontend: `TODO: https://...`
 - Backend: `TODO: https://...` (try `/health`)
-- Demo video: `TODO`
+-
 
 ## 2. Run locally
 
