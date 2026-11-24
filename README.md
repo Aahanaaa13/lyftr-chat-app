@@ -4,7 +4,7 @@ A full-stack AI chatbot built using **React, FastAPI, SQLite, and LiteLLM**. The
 
 ## 1. Live URLs
 
-- **Frontend:** https://lyftr-chat-91kph1uld-aahana.vercel.app/
+- **Frontend:** https://lyftr-chat-91kph1uld-aahana.vercel.app
 - **Backend:** `https://lyftr-chat-app-u4fb.onrender.com
 - **Backend Health Check:** `https://lyftr-chat-app-u4fb.onrender.com/health
 
