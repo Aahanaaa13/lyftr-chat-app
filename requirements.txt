@@ -1,8 +1,0 @@
-fastapi>=0.110
-uvicorn>=0.29
-pydantic>=2.6
-litellm==1.110.3
-# LiteLLM's cache-hit code path imports these. Without them every cache hit
-# crashes with ModuleNotFoundError.
-orjson>=3.9
-soundfile>=0.12
